@@ -4,7 +4,7 @@
 
 - **Name:** Harshil Nagori
 - **Class:** ENTC A2
-- **PRN:** 24070123069  
+- **PRN:** 24070123046
 - **Title:** Implementation of Stack using Array in C++  
 
 ---
